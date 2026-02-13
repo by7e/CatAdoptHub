@@ -19,5 +19,5 @@ CatAdoptHub is a Django web application designed to connect cat owners with pote
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yamilobt8/CatAdoptHub.git
+   git clone https://github.com/by7e/CatAdoptHub.git
 
